@@ -1,0 +1,1 @@
+Extended abstract of the study on AI Ethics and Platform Governance in Iran.
