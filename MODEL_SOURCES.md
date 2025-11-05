@@ -1,1 +1,0 @@
-Models used: GPT-5, Gemini 2.5 Pro, Grok-4, private OSINT tools.
